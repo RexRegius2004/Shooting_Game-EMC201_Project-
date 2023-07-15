@@ -1,0 +1,324 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.3f1 (7cdc2969a641) revision 8182825'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'en' Physical Memory: 16251 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Gigabyte/Shooting_Game(EMC201_Project)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51444
+Successfully changed project path to: C:/Users/Gigabyte/Shooting_Game(EMC201_Project)
+C:/Users/Gigabyte/Shooting_Game(EMC201_Project)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28560] Host "[IP] 192.168.100.22 [Port] 0 [Flags] 2 [Guid] 2818989394 [EditorId] 2818989394 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-MBVPMPE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [28560] Host "[IP] 192.168.100.22 [Port] 0 [Flags] 2 [Guid] 2818989394 [EditorId] 2818989394 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-MBVPMPE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 8.48 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.3f1 (7cdc2969a641)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Gigabyte/Shooting_Game(EMC201_Project)/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.3640
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56204
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004619 seconds.
+- Loaded All Assemblies, in  0.257 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.212 seconds
+Domain Reload Profiling: 468ms
+	BeginReloadAssembly (67ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (110ms)
+		LoadAssemblies (65ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (105ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (96ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (212ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (166ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (111ms)
+			ProcessInitializeOnLoadMethodAttributes (39ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Gigabyte\Shooting_Game(EMC201_Project)\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Gigabyte\Shooting_Game(EMC201_Project)\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.567 seconds
+Refreshing native plugins compatible for Editor in 3.92 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.426 seconds
+Domain Reload Profiling: 991ms
+	BeginReloadAssembly (93ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (407ms)
+		LoadAssemblies (211ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (234ms)
+			TypeCache.Refresh (215ms)
+				TypeCache.ScanAssembly (205ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (426ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (304ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (56ms)
+			ProcessInitializeOnLoadAttributes (211ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.75 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3998 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 69 unused Assets / (244.9 KB). Loaded Objects now: 4456.
+Memory consumption went from 138.8 MB to 138.6 MB.
+Total: 2.841200 ms (FindLiveObjects: 0.197400 ms CreateObjectMapping: 0.111400 ms MarkObjects: 2.368300 ms  DeleteObjects: 0.163400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 95845.499630 seconds.
+  path: Assets/Sprites/Environment
+  artifactKey: Guid(fa9cd94612ec89c488719028a090b1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Environment using Guid(fa9cd94612ec89c488719028a090b1be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61501310f6514da4db1a560d5efd6d2c') in 0.002777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.584852 seconds.
+  path: Assets/Sprites/Ships
+  artifactKey: Guid(83461c5c8de76de4eb016e2f50771101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships using Guid(83461c5c8de76de4eb016e2f50771101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '081b5665ec9be9beaadeb1e2eede8cd1') in 0.000711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 155.992154 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Base - Damaged.png
+  artifactKey: Guid(ed6ebb7d0bffae545a4cbc9ea51dc591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Base - Damaged.png using Guid(ed6ebb7d0bffae545a4cbc9ea51dc591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78229e5753052c4807cd265928b18e7a') in 0.082862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Big Pulse Engine.png
+  artifactKey: Guid(1e8ebe2da59c57643a4dc1b21a453af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Big Pulse Engine.png using Guid(1e8ebe2da59c57643a4dc1b21a453af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0764fb709b51107fdc300a688a7689f6') in 0.021054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Shields - Front and Side Shield.png
+  artifactKey: Guid(212c9db43b319ad4fa398ab567c80d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Shields - Front and Side Shield.png using Guid(212c9db43b319ad4fa398ab567c80d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fee1dce757b4c0ee9c2010d6ceb5085') in 0.018943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Base Engine.png
+  artifactKey: Guid(0d6440bec2a18f241901f6c152f19443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Base Engine.png using Guid(0d6440bec2a18f241901f6c152f19443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244855d22e5e6d8ba31e8b97d7b12ffe') in 0.014952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Weapons - Big Space Gun.png
+  artifactKey: Guid(abead9496606db146b3cc263ec7cbde8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Weapons - Big Space Gun.png using Guid(abead9496606db146b3cc263ec7cbde8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6af11ee87b40b47cc0a5f5b0aecd8d39') in 0.012778 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Weapons - Zapper.png
+  artifactKey: Guid(82354bb8b0db79c4fa0c5f20fa5951a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Weapons - Zapper.png using Guid(82354bb8b0db79c4fa0c5f20fa5951a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f58a2bef1df2cc3a70ea069842190d2c') in 0.019958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Big Pulse Engine - Spritesheet.png
+  artifactKey: Guid(2540c3e869621d1438178b5aeb07e155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Big Pulse Engine - Spritesheet.png using Guid(2540c3e869621d1438178b5aeb07e155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13caf2fba463792cc83327c2e3c6d441') in 0.018076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Shields - Invincibility Shield.png
+  artifactKey: Guid(8bf18f897819d54468c7ec64e7fae4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Shields - Invincibility Shield.png using Guid(8bf18f897819d54468c7ec64e7fae4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e40a8c7754205285d6d1b0eaf12509a') in 0.019880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Base Engine - Powering.png
+  artifactKey: Guid(080f46b00d7a0a545a61bfb3297c9019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Base Engine - Powering.png using Guid(080f46b00d7a0a545a61bfb3297c9019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b83d15d807dd44a93e87d14fd5503de') in 0.021850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Supercharged Engine - Spritesheet.png
+  artifactKey: Guid(2add87ffdd45d4947bd220abc3f8a91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Supercharged Engine - Spritesheet.png using Guid(2add87ffdd45d4947bd220abc3f8a91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144c033cebe6122ab23a0425055465c2') in 0.016791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Weapons - Auto Cannon.png
+  artifactKey: Guid(4c7cc836d6502184294138064dddae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Weapons - Auto Cannon.png using Guid(4c7cc836d6502184294138064dddae19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b423c137b84a47292a0d59d22df3bdd') in 0.020363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Ships/Main ship weapon - Projectile - Rocket.png
+  artifactKey: Guid(3710a8caa670d9b439d1303677902248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main ship weapon - Projectile - Rocket.png using Guid(3710a8caa670d9b439d1303677902248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd25e95a724e37747768781194030f97d') in 0.018364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Weapons - Rockets.png
+  artifactKey: Guid(25106f15319029c4e980ddb0ad8208bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Weapons - Rockets.png using Guid(25106f15319029c4e980ddb0ad8208bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5590999d74c851a93fdd2df406a7f11') in 0.032300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Base Engine - Spritesheet.png
+  artifactKey: Guid(8a87d30278a5d574d9ed282c3da9df9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Base Engine - Spritesheet.png using Guid(8a87d30278a5d574d9ed282c3da9df9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31fe250e7fe67df19ee435feaf4640e5') in 0.006614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Ships/Main ship weapon - Projectile - Zapper.png
+  artifactKey: Guid(1ca19371f47e839498e0ea816f9d0eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main ship weapon - Projectile - Zapper.png using Guid(1ca19371f47e839498e0ea816f9d0eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4b785b275aa180e162e0c1f4e9ee6b') in 0.007722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/Ships/Main Ship - Engines - Burst Engine - Powering.png
+  artifactKey: Guid(f8959e465d0b053458922712a2ff1330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Ships/Main Ship - Engines - Burst Engine - Powering.png using Guid(f8959e465d0b053458922712a2ff1330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ab9ea82f30c38523fff45e7351c382') in 0.006713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
